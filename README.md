@@ -1,6 +1,6 @@
 # dnsmasq
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/dnsmasq)
 
 Alpine-based dnsmasq image
 
